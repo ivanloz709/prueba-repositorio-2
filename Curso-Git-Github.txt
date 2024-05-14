@@ -1,0 +1,9 @@
+git init : con este comando iniciamos un repositorio Git 
+git status -s : con este comando hacemos un scan a los archivos 
+git add . : con este comando agregamos los archivos a nuestro repositorio
+git commit -m: para etiqueta los archivos de nuestro repositorio
+git log --oneline : para revisar el nombre de nuestro repositorio
+:q!: por si aparece el error de la terminala vim
+git push : para subir el repositorio a github cuando hacemos cambios
+git clone: para clonar repositorio, es decir para descargar el repositorio desde git hub
+git ignore: para ignorar archivos en github
